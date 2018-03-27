@@ -1,0 +1,5 @@
+-main Run
+-cp lib/
+-cp src/
+-lib hxargs
+-neko run.n

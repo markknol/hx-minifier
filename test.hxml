@@ -1,0 +1,3 @@
+-cmd haxelib run minifier -in test/large.html -out test/large.minified.html --overwrite --no-comments
+-cmd haxelib run minifier -in test/test.css -out test/test.min.css --overwrite --no-comments
+-cmd haxelib run minifier -in test/test-no-overwrite.html -out test/test-no-overwrite.html 
