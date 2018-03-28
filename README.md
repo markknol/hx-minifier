@@ -4,7 +4,7 @@ This project does not aim to be the smallest but to provide just a way to minify
 
 ## Installation
 
-Install using [Haxelib](https://lib.haxe.org/minifier):
+Install using [Haxelib](https://lib.haxe.org/p/Minifier/):
 
 ```
 haxelib install minifier
