@@ -1,5 +1,8 @@
 # Haxe HTML/CSS Minifier
 
+[![Build Status](https://travis-ci.org/markknol/hx-minifier.svg?branch=master)](https://travis-ci.org/markknol/hx-minifier)
+[![Haxelib Version](https://img.shields.io/github/tag/markknol/hx-minifier.svg?label=haxelib)](http://lib.haxe.org/p/p/Minifier)
+
 This project does not aim to be the smallest but to provide just a way to minify HTML / CSS files.
 
 ## Installation
