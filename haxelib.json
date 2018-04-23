@@ -1,13 +1,13 @@
 {
   "name": "Minifier",
-  "url" : "https://github.com/markknol/hxminifier/",
+  "url" : "https://github.com/markknol/hx-minifier/",
   "license": "MIT",
   "tags": ["haxe","js","css","html","uglify","minify","obfuscation"],
   "description": "Minify utility for HTML and CSS",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "classPath": "lib",
   "releasenote": "Initial release",
-  "contributors": ["Mark Knol"],
+  "contributors": ["markknol"],
   "dependencies": {
 
   }
